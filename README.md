@@ -15,3 +15,5 @@ Everthing Working (Except Fingerprint)
 
 
 4/ Bootcamps can install and boot controversal 
+
+5/ Yoga SMC with battery stop charging
