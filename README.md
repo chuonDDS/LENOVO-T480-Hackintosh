@@ -6,6 +6,12 @@ Everthing Working (Except Fingerprint)
 
 
 1/ thunder bold  USB C Port
+
+
 2/ No Bios mod and AS Programmer need with active power management
+
+
 3/ Fully Hibernatmode Fix
+
+
 4/ Bootcamps can install and boot controversal 
